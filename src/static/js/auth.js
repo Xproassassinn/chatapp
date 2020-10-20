@@ -1,6 +1,6 @@
 var OKTA_SETTINGS = {
-  baseUrl: "https://dev-111464.oktapreview.com",
-  clientId: "0oaejf8gmll1TiDRz0h7",
+  baseUrl: "https://dev-5915768.okta.com/",
+  clientId: "0oaceoct54ZrLx8eu5d5",
   issuer: "https://dev-111464.oktapreview.com/oauth2/default"
 };
 
